@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Bor N/W -->
+    <territory color="2841534046">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3336.1" z="4354.4" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3313.75" z="3344.82" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3237.5" z="3608.93" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2760.85" z="4070.18" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4090.25" z="3790.62" r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4550.35" z="4049.86" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3956.25" z="4203.93" r="150"/>
+    </territory>
+	<!-- Bor S/W -->
+    <territory color="872412928">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3843.46" z="3647.31" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4016.54" z="3681.92" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4291.15" z="3690" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3496.15" z="3875.77" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3411.92" z="4130.77" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3606.92" z="3813.46" r="110"/>
+    </territory>
+	<!--Pavlovo-->
+    <territory color="1090576876">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1346.25" z="3945.00" r="150"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="977.81" z="3987.19" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1294.69" z="4117.50" r="75"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1236.56" z="3895.31" r="82.5"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1453.13" z="3776.25" r="100"/>
+    </territory>
+	<!--Pavlovo-->
+    <territory color="1090576876">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1623.75" z="3699.38" r="150"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1430.63" z="4011.56" r="75"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="980.63" z="3983.44" r="100"/>
+    </territory>
+	<!--west wilderness-->
+    <territory color="1090576876">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="609.38" z="3455.63" r="150"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="729.38" z="3318.75" r="75"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="887.81" z="3143.44" r="100"/>
+    </territory>
+	<!--west wilderness-->
+    <territory color="1090576876">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="978.75" z="3057.19" r="150"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1038.75" z="2896.88" r="75"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1118.44" z="2580.00" r="100"/>
+    </territory>
+</territory-type>

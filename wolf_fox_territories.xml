@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Turovo -->
+    <territory color="255696789">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="13620.00" z="14181.56" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13765.31" z="14079.38"r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13659.38" z="13974.38"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="13611.56" z="14088.75" r="40"/>
+    </territory>
+	<!-- Chernaya Ozero -->
+    <territory color="255696789">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="13444.56" z="12000.00" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13418.63" z="11845.13"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="13280.63" z="11938.13" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13258.13" z="11782.50" r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="13290.00" z="11618.44" r="40"/>
+    </territory>
+	<!-- Druzhba -->
+    <territory color="255696789">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11440.31" z="10655.63" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11315.16" z="10676.72"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11393.91" z="10643.91" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11445.00" z="10549.22" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11519.06" z="10456.41" r="60"/>
+    </territory>
+	<!-- Krasno -->
+    <territory color="255696789">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11780.63" z="12416.25" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11925.00" z="12246.56"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="12017.81" z="12092.81" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12029.06" z="12270.00" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11963.44" z="12405.94" r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11863.13" z="12389.06" r="40"/>
+    </territory>
+	<!-- Youth Pioneer -->
+    <territory color="255696789">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11173.59" z="6941.25" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11078.44" z="6873.28"r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11088.28" z="7040.16"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11169.38" z="7018.59" r="40"/>
+    </territory>
+	<!-- Elektro N -->
+    <territory color="255696789">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9960.60" z="4223.44" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9945.94" z="4515.94"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9821.25" z="4619.06"r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9888.75" z="4318.13"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9971.25" z="4178.44" r="40"/>
+    </territory>
+	<!-- Elektro S -->
+    <territory color="255696789">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="10243.13" z="3693.75" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10282.50" z="3415.31"r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10112.81" z="3231.56"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="10174.69" z="3134.06" r="40"/>
+    </territory>
+	<!-- Ozerko & Stroytel -->
+    <territory color="255696789">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7071.56" z="4426.88"r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6797.81" z="4495.31" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6763.13" z="4727.81"r="60"/>
+    </territory>
+</territory-type>

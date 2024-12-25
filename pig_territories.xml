@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!--Prigorodki-->
+    <territory color="872381884">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="7786.74" z="3417.46" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7966.82" z="3404.61" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8119.79" z="3210.76" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7985.61" z="3289.39" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8070.75" z="3392.59" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7604.93" z="3503.51" r="60"/>
+    </territory>
+	<!--Prigorodki-->
+	<!--Polyana-->
+    <territory color="872381884">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="10637.5" z="8031.25" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10687" z="8134.11" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10689.1" z="7998.39" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10655" z="7911.25" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10794.5" z="8215.71" r="50"/>
+    </territory>
+	<!--Polyana-->
+	<!--Dobroye/Turovo-->
+    <territory color="872381884">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13247.1" z="14782.4" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13118" z="14919.8" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13097.2" z="14975.3" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13354.5" z="14664.4" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13001" z="14988" r="55"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13290.2" z="14712.6" r="50"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="13372.7" z="14792.1" r="60"/>
+    </territory>
+	<!--Dobroye/Turovo-->
+	<!--Zabolotye-->
+    <territory color="872381884">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1610.26" z="10599.7" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1576.76" z="10509.4" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1496.79" z="10645.1" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1580.21" z="10411" r="50"/>
+    </territory>
+	<!--Galkino-->
+    <territory color="872381884">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1199.53" z="8727.71" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1249.82" z="8894.84" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="946.437" z="8930.4" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1228.28" z="8815.27" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1183.66" z="8870.13" r="50"/>
+    </territory>
+	<!--Galkino-->
+	<!--Zvir-->
+    <territory color="872381884">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="727.292" z="5321.68" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="557.009" z="5369.06" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="514.554" z="5281.07" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="277.233" z="5305.18" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="606.563" z="5454.38" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="593.571" z="5286.03" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="691.071" z="5658.62" r="50"/>
+    </territory>
+	<!--Zvir-->
+</territory-type>

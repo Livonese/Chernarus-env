@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Tisy west @ radar -->
+	<territory color="1289674500">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="668.44" z="15215.63" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1033.13" z="15169.69" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1371.56" z="15098.44" r="150"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1665.00" z="14925.00" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1635.94" z="15150.94" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1309.69" z="15219.38" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1900.31" z="15138.75" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1260.94" z="15066.56" r="150"/>
+    </territory>
+	<!-- Tisy west @ radar -->
+	<!--<territory color="1289674500">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="695.63" z="13605.94" r="75"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="209.06" z="13803.75" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="76.88" z="14135.63" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="247.50" z="14250.00" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="369.38" z="14434.69" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="137.81" z="14578.13" r="120"/>
+    </territory>-->
+	<territory color="1289674500">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="695.63" z="13605.94" r="75"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="209.06" z="13803.75" r="90"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="76.88" z="14135.63" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="247.50" z="14250.00" r="90"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="369.38" z="14434.69" r="100"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="137.81" z="14578.13" r="120"/>
+    </territory>
+</territory-type>

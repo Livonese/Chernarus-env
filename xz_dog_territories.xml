@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Chernaya Polyana -->
+	<territory color="1289675460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12135.00" z="13492.97" r="80"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="12077.81" z="13557.28" r="40"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12045" z="13781" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11890" z="13928" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11572" z="14061" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11530" z="14179" r="60"/>
+    </territory>
+	<!-- Chernaya Polyana -->
+	<!-- Serverograd -->
+	<territory color="1289675460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8140.10" z="12554" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8249" z="12630" r="80"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8295" z="12707" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8415" z="12913" r="80"/>
+    </territory>
+	<!-- Serverograd -->
+	<!-- Chernogorsk -->
+	<territory color="1289675460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6382.50" z="2313.75" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6473.44" z="2411.25" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6543.75" z="2486.25" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6431.25" z="2586.56" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6502.50" z="2673.75" r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6582.19" z="2745.00" r="40"/>
+    </territory>
+	<!-- Zelenogorsk -->
+	<territory color="1289675460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2966.72" z="5493.75" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2787.66" z="5384.53" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2812.97" z="5203.59" r="80"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2922.34" z="5064.84" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2625.47" z="5031.09" r="70"/>
+    </territory>
+</territory-type>

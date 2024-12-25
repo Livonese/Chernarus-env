@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Novodmitrovsk -->
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11530.00" z="14376" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11719" z="14519" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11663" z="14651" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11572" z="14783" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11508" z="14720" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11523" z="14594" r="80"/>
+    </territory>
+	<!-- Novodmitrovsk -->
+	<!-- Krasnostav -->
+	<territory color="1289677460">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11297" z="12201" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11182.00" z="12273" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11042" z="12368" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10940" z="12225" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10798" z="12372" r="80"/>
+    </territory>
+	<!-- Krasnostav -->
+	<!-- Serverograd -->
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7668" z="12765" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7678" z="12648" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7857" z="12661" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7905" z="12543" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7987" z="12587" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8126" z="12705" r="80"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8222" z="12719" r="40"/>
+    </territory>
+	<!-- Serverograd -->
+	<!-- Vybor -->
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7668" z="12765" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7678" z="12648" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7857" z="12661" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7905" z="12543" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7987" z="12587" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8126" z="12705" r="80"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8222" z="12719" r="40"/>
+    </territory>
+	<!-- Vybor -->
+	<!-- Novaya Petrovka -->
+	<territory color="1289677460">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4088" z="9124" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4221" z="9045" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4028" z="8867" r="80"/>		
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3856" z="8990" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3683" z="8949" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3751" z="8718" r="80"/>
+    </territory>
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3469" z="13095" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3320" z="13027" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3379" z="12920" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3334" z="12762" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3444" z="13140" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3345" z="12640" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3540" z="12526" r="80"/>
+    </territory>
+	<!-- Novaya Petrovka -->
+	<!-- Zelenogorsk -->
+	<territory color="1289677460">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2137.03" z="4911.09" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2374.69" z="5113.13" r="80"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2541.56" z="4963.13" r="60"/>
+    </territory>
+</territory-type>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Druzbha -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11103.75" z="10355.63" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10614.38" z="10545.00" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10636.88" z="11008.13" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10905.00" z="11139.38" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11349.38" z="10676.25" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10921.88" z="10526.25" r="150"/>
+    </territory>
+	<!-- Druzbha -->
+	<!-- Chernaya Gora -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10490.63" z="11801.25" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10365.00" z="12093.75" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10211.25" z="12506.25" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9905.63" z="12011.25" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9551.25" z="12210.00" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9931.88" z="1835.00" r="150"/>
+    </territory>
+	<!-- Chernaya Gora -->
+	<!-- Romashka -->
+    <territory color="2952645157">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8186.25" z="11688.75" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8252.81" z="11310.94" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8070.94" z="11023.13" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7665.94" z="10936.88" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7187.81" z="10987.50" r="90"/>
+    </territory>
+	<!-- Romashka -->
+	<!-- Chortovzamok -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7098.75" z="11640.00" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6937.50" z="11951.25" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6453.75" z="12140.63" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6110.63" z="12028.13" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5903.44" z="12050.63" r="100"/>
+    </territory>
+	<!-- Chortovzamok -->
+	<!-- Arsenovo -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8818.13" z="13740.00" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8567.81" z="13782.19" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8212.94" z="13855.31" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7831.88" z="13706.25" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7526.25" z="13873.13" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7106.25" z="13876.88" r="90"/>
+    </territory>
+	<!-- Arsenovo -->
+	<!-- Lysaya Gora / Skalka -->
+    <territory color="2952645157">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6882.19" z="14318.44" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6846.56" z="14057.81" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6590.63" z="13856.25" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6288.75" z="13837.50" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5855.63" z="13794.38" r="100"/>
+    </territory>
+	<!-- Lysaya Gora / Skalka -->
+	<!-- Stary Yar -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4785.00" z="15218.44" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5148.28" z="15151.88" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5333.91" z="15045.00" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5751.56" z="15029.06" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6044.06" z="15088.13" r="100"/>
+    </territory>
+	<!-- Stary Yar -->
+	<!-- Chernye Skaly / Pobeda -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4088.91" z="14650.78" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4006.88" z="14799.84" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3931.88" z="12626.41" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3762.66" z="14458.59" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3787.50" z="14317.0" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3618.75" z="14321.72" r="100"/>
+    </territory>
+	<!-- Chernye Skaly / Pobeda -->
+	<!-- Tisy -->
+    <territory color="2952645157">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2398.13" z="14210.63" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2236.88" z="13927.50" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1997.81" z="13485.94" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1698.75" z="13391.75" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1345.31" z="13290.00" r="100"/>
+    </territory>
+	<!-- Tisy -->
+</territory-type>
